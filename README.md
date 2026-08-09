@@ -29,9 +29,10 @@ Setiap notebook disusun sebagai dokumentasi proses pembelajaran dan praktik anal
 | 6  | Persiapan Data untuk Machine Learning                                            | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan6_DevianaAzzahroh_240401010127.ipynb
 | 7  | Pengantar Machine Learning: Regresi Linier                                       | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan7_DevianaAzzahroh_240401010127.ipynb
 | 9  | Algoritma Klasifikasi Bagian 1 — Logistic Regression & Decision Tree             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan9_DevianaAzzahroh_240401010127.ipynb
-| 7  | Pengantar Machine Learning: Regresi Linier             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan7_DevianaAzzahroh_240401010127.ipynb
-| 7  | Pengantar Machine Learning: Regresi Linier             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan7_DevianaAzzahroh_240401010127.ipynb
-| 7  | Pengantar Machine Learning: Regresi Linier             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan7_DevianaAzzahroh_240401010127.ipynb
+| 10  | Algoritma Klasifikasi Bagian 2 — Random Forest & Imbalanced Dataset             | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan10_DevianaAzzahroh_240401010127.ipynb
+| 11  | Unsupervised Learning — K-Means & Hierarchical Clustering                       | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan11_DevianaAzzahroh_240401010127.ipynb
+| 12  | Asosiasi Data & Rekomendasi — Apriori & Content-Based Filtering                 | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan12_DevianaAzzahroh_240401010127.ipynb
+| 13  | Deep Learning & NLP — Neural Network & TF-IDF Analisis Sentimen                 | https://github.com/Dvanaz/DataScience_240401010127_DevianaAzzahroh/blob/main/Pertemuan13_DevianaAzzahroh_240401010127.ipynb
 
 ---
 
